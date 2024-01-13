@@ -1,0 +1,21 @@
+.Card{
+    width: 400px;
+    padding: 10px;
+    background-color: white;
+    box-shadow: 4px 4px 7px gray;
+    display:inline-block;
+    margin-right: 24px;
+    margin-bottom: 15px;
+    
+}
+.Card h1{
+    color: black;
+    font-size: 26px;
+    text-align: center;
+}
+
+.Card h2{
+    color: rgb(40, 35, 66);
+    font-size: 20px;
+    text-align: center;
+}
